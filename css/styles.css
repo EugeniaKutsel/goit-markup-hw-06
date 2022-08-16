@@ -354,6 +354,7 @@ textarea:focus {
   background-size: contain;
   background-position: center;
   border-color: var(--accent-color);
+  background-origin: border-box;
 }
 .form.button {
   min-width: 200px;
